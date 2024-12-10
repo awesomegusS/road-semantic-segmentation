@@ -39,6 +39,6 @@ The average test loss was 0.113.
 **results** contain some result screenshots
 
   
-
-
+## Presentation & Demo
+I talk about the project and demo it in this short clip: https://www.linkedin.com/posts/godswill-ikwan_computervision-ai-deeplearning-activity-7191995750090702848-9J1b?utm_source=share&utm_medium=member_desktop
 

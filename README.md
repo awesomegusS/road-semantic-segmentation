@@ -28,8 +28,14 @@ The average test loss was 0.113.
 
 ## Info:
 **Models** folder contains some the models trained during development
+
+
 **road_segmentation_app.py** is the python file that runs the gradio app that consumes the model
+
+
 **images & labels** contain the dataset that was used for training and testing
+
+
 **results** contain some result screenshots
 
   

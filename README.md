@@ -10,8 +10,10 @@ The average test loss was 0.113.
 
 ![Alt text](results/result_1.png )
 <br>
+
 ![Alt text](results/result_2.png )
 <br>
+
 ![Alt text](results/result_3.png )
 
 
